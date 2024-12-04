@@ -1,0 +1,1 @@
+This repository demonstrates a common type mismatch error in Swift functions. The `calculateArea` function expects `Double` values for both `width` and `height`, but the provided code attempts to pass an `Int` value, resulting in a compilation error. The solution involves ensuring that both arguments are of type `Double`.
